@@ -46,8 +46,11 @@
 
 ### 1. Using the Executable (Recommended for Players)
 
-1.  Navigate to the root directory of this project.
-2.  Find and double-click the **`Tic-Tac-Toe Bot Edition.exe`** file to run the game. No installation is required!
+1.  Go to the **[Releases](https://github.com/adios-07/Tic-Tac-Toe-Final-Boss/releases)** page of this repository.
+
+2.  From the latest release, download the **`Tic-Tac-Toe Bot Edition.exe`** file.
+
+3.  Double-click the downloaded file to run the game. No installation is required!
 
 ### 2. Running from Source Code (For Developers)
 
