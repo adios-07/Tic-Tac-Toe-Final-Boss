@@ -7,18 +7,13 @@
 </div>
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/python-3.x-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-
 </div>
 
 ---
 
 <div align="center">
 
-*Replace the URL below with a GIF of your gameplay.*
-![Gameplay GIF](https://placehold.co/600x400/3d3d3d/E0E0E0?text=Gameplay+GIF)
+![Gameplay GIF](./Assets/GameScreen.png)
 
 </div>
 
@@ -41,7 +36,7 @@
 
 | Setup Screen                                                                                    | Game Over Screen                                                                                |
 | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| *Replace with a screenshot of your setup window.*<br>![Setup Screen](https://placehold.co/400x300/4a4a4a/E0E0E0?text=Setup+Screen) | *Replace with a screenshot of your end-game window.*<br>![Game Over](https://placehold.co/400x300/4a4a4a/E0E0E0?text=Game+Over) |
+| <br>![Setup Screen](./Assets/StartScreen.png) |                                                   <br>![Game Over](./Assets/EndScreen.png) |
 
 </div>
 
@@ -60,8 +55,8 @@ If you want to run or modify the source code, follow these steps:
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/YourUsername/YourRepoName.git
-    cd YourRepoName
+    git clone https://github.com/adios-07/Tic-Tac-Toe-Final-Boss.git
+    cd Tic-Tac-Toe-Final-Boss
     ```
 
 2.  **Ensure you have Python installed** (version 3.x is recommended). Tkinter is included in the standard library.
